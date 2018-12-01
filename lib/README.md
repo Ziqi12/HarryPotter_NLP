@@ -1,4 +1,4 @@
-# Project: NLP based on HArry Potter 5
+# Project: NLP based on Harry Potter 5
 
 ### Code lib Folder
 
