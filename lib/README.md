@@ -1,4 +1,4 @@
-# Project: OCR (Optical Character Recognition) 
+# Project: NLP based on Harry Potter 5
 
 ### Code lib Folder
 
